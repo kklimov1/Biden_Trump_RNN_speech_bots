@@ -1,5 +1,5 @@
 # Biden_Trump_RNN_speech_bots
-Using RNNs to generate speech of both Biden and Trump.
+Using web scraping to gather data, and RNNs to generate speech similar to both Biden and Trump.
 
 This project is meant to create statements, that are similar in subject and structure to real statements made by Joe Biden and Donald Trump before the 2020 election. It is in no way meant as a political statement. It is also not meant to serve as a deep analysis and comparison of their speech. It is simply meant to be a light-hearted and entertaining take on the political process in America.
 
